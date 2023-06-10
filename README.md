@@ -1,6 +1,6 @@
 
 
-![alt text](http://url/to/image.png)
+![alt text](image.png)
 
 https://youtu.be/t0B748710Jw
 

@@ -1,0 +1,19 @@
+The Task Manager application is designed to help you organize and manage your tasks efficiently. It provides a user-friendly interface with various features to assist you in task management.
+
+When you launch the application, you will be presented with a menu that offers several options for interacting with your tasks.
+
+Option 1: Add Task - This option allows you to add a new task to your task list. You will be prompted to enter the title and description of the task. Once you provide the necessary information, the task will be added to your list.
+
+Option 2: Delete Task - Selecting this option enables you to remove a task from your list. You need to enter the task number or index of the task you want to delete. The application will remove the specified task from the list.
+
+Option 3: Mark Task as Done - This option is used to mark a task as completed. You will be prompted to enter the task number or index of the task you have finished. Once you confirm, the application will update the task's status to indicate that it is done.
+
+Option 4: List Tasks - Choosing this option displays all your tasks in a comprehensive list format. It shows the title, description, and status (whether the task is done or not) of each task. This allows you to review and keep track of all your tasks effectively.
+
+Option 5: Export Tasks - This feature enables you to export your tasks to a file. You can choose the desired file format for exporting, such as text, CSV, or any other format supported by the application. By exporting your tasks, you can save them externally for backup purposes or to share them with others.
+
+Option 6: Exit - When you are finished using the Task Manager application, selecting this option will save all your tasks and close the application gracefully.
+
+Throughout the usage of the application, your tasks are automatically saved and persisted upon restart. This ensures that your task data is preserved, and you can resume working with your tasks seamlessly.
+
+The Task Manager application aims to streamline your task management process, providing essential functionalities like adding, deleting, marking tasks as done, listing tasks, and exporting tasks. By utilizing these features, you can stay organized, track your progress, and effectively manage your workload.

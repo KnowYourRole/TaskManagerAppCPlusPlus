@@ -1,6 +1,6 @@
 ﻿  Main.cpp
-c:\users\emila\onedrive\desktop\application assignment\taskmanagermain\taskmanagermain\main.cpp(28): warning C4018: '<': signed/unsigned mismatch
-c:\users\emila\onedrive\desktop\application assignment\taskmanagermain\taskmanagermain\main.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\emila\onedrive\desktop\applicationgithub\taskmanagerappcplusplus\taskmanagermain\taskmanagermain\main.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\emila\onedrive\desktop\applicationgithub\taskmanagerappcplusplus\taskmanagermain\taskmanagermain\main.cpp(34): warning C4018: '<': signed/unsigned mismatch
   TaskManagerMain.cpp
   Generating Code...
-  TaskManagerMain.vcxproj -> C:\Users\emila\OneDrive\Desktop\Application Assignment\TaskManagerMain\Debug\TaskManagerMain.exe
+  TaskManagerMain.vcxproj -> C:\Users\emila\OneDrive\Desktop\ApplicationGitHub\TaskManagerAppCPlusPlus\TaskManagerMain\Debug\TaskManagerMain.exe
